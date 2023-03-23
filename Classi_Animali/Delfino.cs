@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Delfino : Animal
+public class Delfino : Animal 
 {
     public override void Verso()
     {
